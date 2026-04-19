@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\Tareas Progra lll\Arboles AVL\Tarea Arboles AVL\Tarea Arboles AVL\bin\Debug\Tarea Arboles AVL.exe.config
+C:\Users\HP\Documents\Tareas Progra lll\Arboles AVL\Tarea Arboles AVL\Tarea Arboles AVL\bin\Debug\Tarea Arboles AVL.exe
+C:\Users\HP\Documents\Tareas Progra lll\Arboles AVL\Tarea Arboles AVL\Tarea Arboles AVL\bin\Debug\Tarea Arboles AVL.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Arboles AVL\Tarea Arboles AVL\Tarea Arboles AVL\obj\Debug\Tarea Arboles AVL.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Tareas Progra lll\Arboles AVL\Tarea Arboles AVL\Tarea Arboles AVL\obj\Debug\Tarea Arboles AVL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Tareas Progra lll\Arboles AVL\Tarea Arboles AVL\Tarea Arboles AVL\obj\Debug\Tarea Arboles AVL.exe
+C:\Users\HP\Documents\Tareas Progra lll\Arboles AVL\Tarea Arboles AVL\Tarea Arboles AVL\obj\Debug\Tarea Arboles AVL.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Arboles AVL\Tarea Arboles AVL\Tarea Arboles AVL\obj\Debug\Tarea Arboles AVL.exe.config

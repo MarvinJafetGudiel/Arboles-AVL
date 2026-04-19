@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea Arboles AVL", "Tarea Arboles AVL\Tarea Arboles AVL.csproj", "{E0EE335B-C403-4C43-AF7A-2A4567E42169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0EE335B-C403-4C43-AF7A-2A4567E42169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EE335B-C403-4C43-AF7A-2A4567E42169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EE335B-C403-4C43-AF7A-2A4567E42169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EE335B-C403-4C43-AF7A-2A4567E42169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A850BBD-D1CC-4EE1-8BEF-5EB5D4351F0D}
+	EndGlobalSection
+EndGlobal
